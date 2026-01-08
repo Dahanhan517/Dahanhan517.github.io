@@ -72,7 +72,7 @@ disqus: # fromendworld
 # Gitalk
 gitalk:
   clientID: Ov23li8CtVD9Qs6gHntm
-  clientSecret: b297919eca18253fd9ac5b2ca25ebae1f4c8d4ce
+  clientSecret: fa1217750d88f616aadb1eb29c6ec1e0fa1488b8
   repo: Dahanha517.github.io
   owner: Dahanhan517
 
