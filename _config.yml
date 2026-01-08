@@ -73,7 +73,7 @@ disqus: # fromendworld
 gitalk:
   clientID: Ov23li8CtVD9Qs6gHntm
   clientSecret: fa1217750d88f616aadb1eb29c6ec1e0fa1488b8
-  repo: Dahanha517.github.io
+  repo: Dahanhan517.github.io
   owner: Dahanhan517
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
